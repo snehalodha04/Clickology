@@ -1,0 +1,34 @@
+
+body{
+	background-color: #191919;
+}
+
+.imageLg{
+	border: 1px solid transparent;
+	max-height: 100px;
+	width: 300px;
+	margin-top: -60px;
+}
+
+.imageMd{
+	border: 1px solid transparent;
+	max-height: 80px;
+	width: 260px;
+	margin-top: -60px;
+}
+
+.imageSm{
+	border: 1px solid transparent;
+	max-height: 80px;
+	width: 200px;
+	margin-top: -60px;
+}
+
+.menu{
+	/*margin-top: -120px;*/
+	color: black;
+}
+
+.no-border{
+	border: 0;
+}
